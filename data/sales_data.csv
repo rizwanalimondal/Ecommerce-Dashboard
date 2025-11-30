@@ -1,0 +1,11 @@
+Order ID,Date,Category,Product,Region,Quantity,Price
+1001,2024-01-05,Electronics,Smartphone,North,2,35000
+1002,2024-01-06,Clothing,Jeans,South,3,1500
+1003,2024-01-07,Electronics,Laptop,East,1,55000
+1004,2024-01-07,Grocery,Rice,West,5,80
+1005,2024-01-08,Clothing,T-Shirt,North,4,500
+1006,2024-01-08,Furniture,Chair,South,2,3000
+1007,2024-01-09,Grocery,Oil,East,3,200
+1008,2024-01-10,Electronics,Tablet,West,1,22000
+1009,2024-01-11,Furniture,Table,North,1,9000
+1010,2024-01-12,Grocery,Sugar,East,2,45
