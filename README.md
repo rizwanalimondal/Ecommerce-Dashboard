@@ -15,16 +15,18 @@ The dashboard provides a quick overview of sales trends, category performance an
 
 ## Project Structure
 
+```
 Ecommerce-Dashboard/
 │
 ├── data/
-│ └── sales_data.csv
+│   └── sales_data.csv
 │
 ├── src/
-│ └── dashboard.py
+│   └── dashboard.py
 │
 ├── requirements.txt
 └── README.md
+```
 
 ## How to Run
 
